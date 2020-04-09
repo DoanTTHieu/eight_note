@@ -1,1 +1,1 @@
-# eight_name
+# mini game javascript
